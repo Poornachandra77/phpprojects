@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+body{
+    width:100%;
+    height:100%;
+    font-family: 'Oxygen';
+    font-size: 22px;
+    background-image: url('sea.jpeg');
+    background-size: cover;
+    margin:0;
+}
+
+input{
+    padding: 10px;
+    margin:10px;
+}
+
+.form{ 
+
+    width :30%;
+    border: 1px solid black;
+    background-color:white;
+    margin:12%;
+    margin-left: 35%;
+    padding:0 2% 0 4%;
+    
+}
+.fname{
+    margin:0;
+    padding-left: 1%;
+    width:42%;
+}
+
+.lname{
+    margin-left: 0;
+    width:41%;
+    margin-bottom: 1%;
+}
+
+.age{
+    margin-left: 0;
+    margin-right: 0;
+    width:41%;
+    margin-bottom:1%;
+}
+.contact{
+    margin:0;
+    width:41%;
+    margin-bottom: 2.5%;
+}
+
+
+.email,.password{
+    width:87%;
+    margin:0;
+    margin-bottom:2.5%;
+}
+
+.submit{
+    width:91.5%;
+    margin-left:0;
+    border-radius: 20px;
+}
+
+.profilephoto{
+    padding-left: 10px;
+    width:89%;
+    border:grey solid 1px;
+    font-size:15px;
+}
+
+.user{
+    padding:10px;
+    font-size:16px;
+    margin-bottom:4%;
+}

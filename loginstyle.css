@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+body{
+    width:100%;
+    height:100%;
+    font-family: 'Oxygen';
+    font-size: 22px;
+    background-image: url('sea.jpeg');
+    background-size: cover;
+    margin:0;
+}
+
+input{
+    padding: 10px;
+    margin:10px;
+}
+
+.form{ 
+    height: 20%;
+    width :21%;
+    border: 1px solid black;
+    background-color:white;
+    margin:12%;
+    margin-left: 35%;
+    padding:0 2% 0 4%;
+    
+}
+
+.input{
+    width:90%;
+    margin:0;
+    margin-bottom:5%;
+    padding-right: 0.5%;
+}
+
+
+.submit{
+    width:94%;
+    margin-left:0;
+    border-radius: 20px;
+    margin-bottom:0;
+    
+}
+
+.newuser{
+    margin-bottom:5%;
+    padding-top: 10px;
+    padding-left:10px;
+    font-size: 14px;
+}
